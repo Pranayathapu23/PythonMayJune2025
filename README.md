@@ -63,4 +63,28 @@ Next class
         operator precedence in Arthimetic operations
 
 ## Next Class
+
+        Practical Problem solving
+        working with complex numbers
+        abs() function
+        Operator precedence in Arithmetic operations
+
+Assignments:
+
+    1) savings Bank 
+    2) Bank loan
+        simple interest 
+        compund interest
+    3) convert from hex to oct , and vice versa
+    4) feet to cms conversion
+
+class05 
+
+String operations
+    Usage of single, double and triple quotes
+    len() function
+    Indexing and Slicing Strings
         
+Class 06
+ 
+string attributes
