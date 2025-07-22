@@ -1,0 +1,8 @@
+PEMDAS in Python (and Math) 📚
+PEMDAS is the order in which operations are performed in math (and programming, like Python):
+
+P – Parentheses
+E – Exponents (powers, roots, etc.)
+MD – Multiplication and Division (from left to right)
+AS – Addition and Subtraction (from left to right)
+
